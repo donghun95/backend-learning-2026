@@ -1,0 +1,13 @@
+# 컴파일된 자바 클래스 파일 제외
+/bin/
+*.class
+
+# 이클립스 설정 파일 제외
+.metadata/
+.settings/
+.project
+.classpath
+
+# 운영체제 임시 파일
+Thumbs.db
+.DS_Store
