@@ -1,4 +1,4 @@
-package week_01;
+package week_01.src;
 
 import java.util.ArrayList;
 import java.util.HashMap;

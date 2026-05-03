@@ -1,4 +1,4 @@
-package week_01;
+package week_02.src;
 
 class PaymentSystem {
 	// 버전 1: 현금 결제 (정수형 입력)
