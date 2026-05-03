@@ -1,14 +1,14 @@
-1주차 학습 : Java 컬렉션(List,Map,Set), MariaDB 프로시져 작성
-
-자습과제 1 - Java 컬렉션 : List,Map,Set에 대한 내용 정리 및 어느 상황에 작성해 하는지 공부  
-자습과제 2 - MariaDB 10만건 이상 생성하며 나타나는 문제들 해결 (트렌잭션 적용)   
-자습과제 3 - EXPLAIN과 인덱스 적용
+1주차 학습 : Java 컬렉션(List,Map,Set), MariaDB 프로시져 작성  
+  
+    자습과제 1 - Java 컬렉션 : List,Map,Set에 대한 내용 정리 및 어느 상황에 작성해 하는지 공부  
+    자습과제 2 - MariaDB 10만건 이상 생성하며 나타나는 문제들 해결 (트렌잭션 적용)   
+    자습과제 3 - EXPLAIN과 인덱스 적용
 
 2주차 학습 : OOP + Spring MVC 원리
 
-1. OOP 4대 원칙 (캡슐화, 상속, 다형성, 추상화)
-2. SOLID 원칙
-3. Spring IoC/DI 심화
-4. Controller->service->Repository 레이어 심화
-5. DTO vs Entity 분리
-6. @Transactional 
+    1. OOP 4대 원칙 (캡슐화, 상속, 다형성, 추상화)
+    2. SOLID 원칙
+    3. Spring IoC/DI 심화
+    4. Controller->service->Repository 레이어 심화
+    5. DTO vs Entity 분리
+    6. @Transactional 
