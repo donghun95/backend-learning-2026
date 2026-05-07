@@ -11,4 +11,10 @@
     3. Spring IoC/DI 심화
     4. Controller->service->Repository 레이어 심화
     5. DTO vs Entity 분리
-    6. @Transactional 
+    6. @Transactional
+    
+3주차 학습 : 트랙잭션 + 동시성 기초
+
+    1. 트랙잭션 격리 수준
+    2. 낙관적 락 / 비관적 락
+    3. Java 동시성 기초
