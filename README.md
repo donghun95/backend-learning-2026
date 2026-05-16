@@ -24,3 +24,4 @@
     1. 기존 진행했던 프로젝트 API 하나 골라서 Srping Boot로 마이그레이션 하기
     2. xml 설정과 어노테이션,ymal 차이 비교
     3. 기존 Spring 프로젝트 구조 vs Spring Boot 프로젝트 구조 비교
+    결과물 주소: https://github.com/donghun95/studentapi
