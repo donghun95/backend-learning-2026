@@ -20,10 +20,20 @@
     3. Java 동시성 기초
     
 4주차 학습 : Spring 프레임워크 vs Spring boot 차이 비교  
-[결과물 주소](https://github.com/donghun95/studentapi)
+[4주차 결과물 주소](https://github.com/donghun95/studentapi)
 
 
     1. 기존 진행했던 프로젝트 API 하나 골라서 Srping Boot로 마이그레이션 하기
     2. xml 설정과 어노테이션,ymal 차이 비교
     3. 기존 Spring 프로젝트 구조 vs Spring Boot 프로젝트 구조 비교
+
+5주차 학습 : Spring Boot + MyBatis 실전  
+[5주차 결과물 주소](https://github.com/donghun95/week5-board-demo)
+
+    1. MyBatis 동적 쿼리에 대해서 알아보기 
+    2. #{} vs ${} - SQL Injection
+    3. Offset vs Cursor 페이징
+    4. 조회수증가에 대해서 상세히 알아보기
+
+  
 
