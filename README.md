@@ -34,6 +34,7 @@
     2. #{} vs ${} - SQL Injection
     3. Offset vs Cursor 페이징
     4. 조회수증가에 대해서 상세히 알아보기
+    5. Bruno 사용 (브루노 v3.1 이후로는 새로 생성하거나 가져오는(Import) 컬렉션은 기본적으로 .yml)
 
   
 
