@@ -1,0 +1,22 @@
+info:
+  name: Offset 페이징
+  type: http
+  seq: 4
+
+http:
+  method: GET
+  url: http://localhost:18080/api/boards/offset?page=0&size=3
+  params:
+    - name: page
+      value: "0"
+      type: query
+    - name: size
+      value: "3"
+      type: query
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

@@ -1,0 +1,15 @@
+info:
+  name: 게시글 등록
+  type: http
+  seq: 8
+
+http:
+  method: POST
+  url: http://localhost:18080/api/boards
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
