@@ -6,6 +6,14 @@ info:
 http:
   method: POST
   url: http://localhost:18080/api/boards
+  body:
+    type: json
+    data: |
+      {
+        "title": "수업 중 등록한 글",
+        "content": "Spring Boot + MyBatis 5주차 시연 보완",
+        "writer": "mentor"
+      }
   auth: inherit
 
 settings:
