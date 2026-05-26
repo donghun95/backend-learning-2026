@@ -1,0 +1,15 @@
+info:
+  name: "에러 처리: 없는 게시글은 404"
+  type: http
+  seq: 9
+
+http:
+  method: GET
+  url: http://localhost:18080/api/boards/6
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

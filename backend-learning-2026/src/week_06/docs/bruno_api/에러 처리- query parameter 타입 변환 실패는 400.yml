@@ -1,0 +1,22 @@
+info:
+  name: "에러 처리: query parameter 타입 변환 실패는 400"
+  type: http
+  seq: 12
+
+http:
+  method: GET
+  url: http://localhost:18080/api/boards?cursorId=abc&size=2
+  params:
+    - name: cursorId
+      value: abc
+      type: query
+    - name: size
+      value: "2"
+      type: query
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

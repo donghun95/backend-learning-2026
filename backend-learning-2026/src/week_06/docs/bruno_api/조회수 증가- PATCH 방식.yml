@@ -1,0 +1,15 @@
+info:
+  name: "조회수 증가: PATCH 방식"
+  type: http
+  seq: 6
+
+http:
+  method: PATCH
+  url: http://localhost:18080/api/boards/1/views
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
