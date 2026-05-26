@@ -37,5 +37,10 @@
     5. Bruno 사용 (브루노 v3.1 이후로는 새로 생성하거나 가져오는(Import) 컬렉션은 기본적으로 .yml)
     6. k6 부하테스트
 
-  
+6주차 학습 : RESTful API 설계  
+[6주차 결과물 주소](https://github.com/donghun95/week6-board-restful)
 
+    1. RESTful 설계 원칙 — HTTP 메서드 / URL / 상태 코드
+    2. 5주차 API 진단 → 6주차 리팩토링
+    3. DTO 설계
+    4. 공통 에러 응답
