@@ -6,6 +6,14 @@ info:
 http:
   method: POST
   url: http://localhost:18080/api/boards
+  body:
+    type: json
+    data: |
+      {
+        "title": "REST 리팩토링",
+        "content": "6주차 시연-1",
+        "writer": "donghun3"
+      }
   auth: inherit
 
 settings:

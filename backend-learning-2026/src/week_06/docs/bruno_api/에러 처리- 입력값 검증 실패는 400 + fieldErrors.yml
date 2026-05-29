@@ -6,6 +6,12 @@ info:
 http:
   method: POST
   url: http://localhost:18080/api/boards
+  body:
+    type: json
+    data: |-
+      Content-Type: application/json
+
+      {}
   auth: inherit
 
 settings:

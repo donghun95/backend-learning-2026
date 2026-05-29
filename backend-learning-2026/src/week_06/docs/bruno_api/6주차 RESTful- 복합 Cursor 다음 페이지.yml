@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: GET http://localhost:18080/api/boards?cursorId=4&cursorCreatedAt=2026-05-23T13:39:40&size=2
+  url: http://localhost:18080/api/boards?cursorId=4&cursorCreatedAt=2026-05-23T13:39:40&size=2
   params:
     - name: cursorId
       value: "4"
