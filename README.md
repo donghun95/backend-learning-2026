@@ -44,3 +44,12 @@
     2. 5주차 API 진단 → 6주차 리팩토링
     3. DTO 설계
     4. 공통 에러 응답
+    
+7주차 학습 : jpa 
+[7주차 결과물 주소](https://github.com/donghun95/02-week7-board-jpa)
+
+    1. JPA의 N+1 문제
+    2. 영속성 컨텍스트와 1차 캐시 
+    3. 변경 감지(Dirty Checking) 
+    4. OSIV(Open Session In View)를 왜 끄나? 
+
