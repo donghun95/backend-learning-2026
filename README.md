@@ -60,5 +60,14 @@
     2. 캐시 무효화
     3. Redis INCR
     4. Cache-Aside / Write-Through / Write-Behind 차이
+    
+9주차 학습 : 테스트 코드 + Git 실무  
+[9주차 결과물 주소](https://github.com/donghun95/week9-board-test-re)
+
+    1. 테스트 피라미드 — 단위 / 슬라이스 / 통합
+    2. JUnit 5 + AssertJ + Mockito — 한 줄 요약
+    3. JaCoCo 커버리지 — 부정 지표
+    4. Gitfeature branch → PR → merge 흐름
+
 
 
